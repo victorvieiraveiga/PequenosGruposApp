@@ -1,5 +1,4 @@
 # Projeto de Bloco IOS
-<!DOCTYPE HTML>
 <html>
 <header>
     <h1>Projeto de Bloco IOS</h1>
@@ -7,11 +6,12 @@
     <p>INFNET</p>
 </header>
     
-    <body> 
-        <h1> Sobre o Projeto </h1>
+<article>
+  <h1>Sobre o Projeto</h1>
+  <p>Aplicativo que tem por objetivo gerenciar pequenos grupos ou células evangelísticas que ocorrem nas casas.</p>
+</article>
     
-    
-    </body>
+
     
 </html>
 
