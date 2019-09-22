@@ -12,7 +12,7 @@
 </article>
   
  <article>
-  <h2>FUNCIONALIDADESo</h2>
+  <h2>FUNCIONALIDADES</h2>
   <p>
      Criação e Autenticação de Usuário
      Cadastro de Pequenos Grupos 
