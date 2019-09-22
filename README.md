@@ -13,15 +13,14 @@
   
  <article>
   <h2>FUNCIONALIDADES</h2>
-  <p>
-     Criação e Autenticação de Usuário
-     Cadastro de Pequenos Grupos 
-     Cadastrar Participantes 
-     Exibir Localização no Mapa dos Pequenos Grupos e dos Participantes.
-     Cadastrar as Reuniões 
-     Buscar Reuniões por data
-     Enviar Relatório das Reuniões.
- </p>
+  <p> Criação e Autenticação de Usuário </p>
+    <p> Cadastro de Pequenos Grupos </p>
+   <p>  Cadastrar Participantes </p>
+   <p>  Exibir Localização no Mapa dos Pequenos Grupos e dos Participantes. </p>
+  <p>   Cadastrar as Reuniões </p>
+   <p>  Buscar Reuniões por data </p>
+   <p>  Enviar Relatório das Reuniões. </p>
+
 </article>
     
 
