@@ -39,7 +39,7 @@
     <ul>
     <li><a href="./another-page.html">Video Demonstraçao do Aplicativo</a>.</li>        
      </ul>
-    <p><img src="https://guides.github.com/victorvieiraveiga/pequenosgruposapp/image2.png" alt="Branching" /></p>
+    <p><img src="https://github.com/victorvieiraveiga/pequenosgruposapp/blob/master/image1.png" alt="App" /></p>
 </article>
  <article>
   <h2>FUTURAS ATUALIZAÇOES</h2>
