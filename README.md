@@ -24,6 +24,12 @@
 </article>
     
 
+ <article>
+  <h2>METODOLOGIA DE EXECUÇÃO</h2>
+  <p> Desenvolvido Individualmente </p>
+   <p> Aproximadamente 2 meses de trabalho </p>
+   <p>  Uso de MacBook Pessoal </p>
+</article>
     
 </html>
 
