@@ -2,14 +2,14 @@
 <html>
 <header>
     <h1>Projeto de Bloco IOS</h1>
-    <br></br>
-    <p><h2>Victor Vieira Veiga</h2> </p>
+    <br>
+    <h2>Victor Vieira Veiga</h2>
     <p>INFNET</p>
 </header>
     
 <article>
   <br></br>
-  <h2>Sobre o Projeto</h2>
+  <h2>SOBRE O PROJETO</h2>
   <p>Aplicativo que tem por objetivo gerenciar pequenos grupos ou células evangelísticas que ocorrem nas casas.</p>
 </article>
   
