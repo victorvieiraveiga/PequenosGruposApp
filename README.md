@@ -16,37 +16,43 @@
  <article>
   <h2>FUNCIONALIDADES</h2>
     <ul>
-  <li> Criação e Autenticação de Usuário </li>
-    <li> Cadastro de Pequenos Grupos </li>
-   <li>  Cadastrar Participantes </li>
-   <li>  Exibir Localização no Mapa dos Pequenos Grupos e dos Participantes. </li>
-  <li>   Cadastrar as Reuniões </li>
-   <li>  Buscar Reuniões por data </li>
-   <li>  Enviar Relatório das Reuniões. </li>
-</ul>
+        <li> Criação e Autenticação de Usuário </li>
+        <li> Cadastro de Pequenos Grupos </li>
+        <li>  Cadastrar Participantes </li>
+        <li>  Exibir Localização no Mapa dos Pequenos Grupos e dos Participantes. </li>
+        <li>   Cadastrar as Reuniões </li>
+        <li>  Buscar Reuniões por data </li>
+        <li>  Enviar Relatório das Reuniões. </li>
+    </ul>
 </article>
- <article>
+
+<article>
   <h2>METODOLOGIA DE EXECUÇÃO</h2>
-  <p> Desenvolvido Individualmente </p>
-   <p> Aproximadamente 2 meses de trabalho </p>
-   <p>  Uso de MacBook Pessoal </p>
+    <ul>
+       <li> Desenvolvido Individualmente </li>
+       <li> Aproximadamente 2 meses de trabalho </li>
+       <li> Uso de MacBook Pessoal </li>
+    </ul>
 </article>
 
  <article>
   <h2>FUTURAS ATUALIZAÇOES</h2>
-  <p> Melhorias de Design. </p>
-  <p> Criar Categorização de Participante (Membro, Visitante, Líder e Anfitrião).</p>
-  <p>  Criar relatório mensal. </p>
-  <p>Criar versão Android. </p>
-
+    <ul>
+      <p> Melhorias de Design. </p>
+      <p> Criar Categorização de Participante (Membro, Visitante, Líder e Anfitrião).</p>
+      <p>  Criar relatório mensal. </p>
+      <p>Criar versão Android. </p>
+    </ul>
 </article>
 
  <article>
   <h2>BIBLIOTECAS UTILIZADAS</h2>
-  <p> FireBaseDataBase – Base de Dados.  </p>
-  <p> FireBaseStorage – Armazenamento de Imagens </p>
-  <p> SDWebImage – Manipulação de imagens </p>
-  <p> SWRevealViewController-máster – Men </p>
+   <ul>
+      <li> FireBaseDataBase – Base de Dados.  </li>
+      <li> FireBaseStorage – Armazenamento de Imagens </li>
+      <li> SDWebImage – Manipulação de imagens </li>
+      <li> SWRevealViewController-máster – Men </li>
+   </ul>
 </article>
     
 </html>
