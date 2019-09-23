@@ -2,6 +2,7 @@
 <html>
 <header>
     <h1>Projeto de Bloco IOS</h1>
+    <br></br>
     <p><h2>Victor Vieira Veiga</h2> </p>
     <p>INFNET</p>
 </header>
@@ -22,8 +23,6 @@
    <p>  Enviar Relatório das Reuniões. </p>
 
 </article>
-    
-
  <article>
   <h2>METODOLOGIA DE EXECUÇÃO</h2>
   <p> Desenvolvido Individualmente </p>
