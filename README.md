@@ -38,10 +38,10 @@
  <article>
   <h2>FUTURAS ATUALIZAÇOES</h2>
     <ul>
-      <p> Melhorias de Design. </p>
-      <p> Criar Categorização de Participante (Membro, Visitante, Líder e Anfitrião).</p>
-      <p>  Criar relatório mensal. </p>
-      <p>Criar versão Android. </p>
+      <li> Melhorias de Design. </li>
+      <li> Criar Categorização de Participante (Membro, Visitante, Líder e Anfitrião).</li>
+      <li>  Criar relatório mensal. </li>
+      <li>Criar versão Android. </li>
     </ul>
 </article>
 
