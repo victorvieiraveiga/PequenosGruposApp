@@ -39,7 +39,9 @@
     <ul>
     <li><a href="./another-page.html">Video Demonstraçao do Aplicativo</a>.</li>        
      </ul>
-    <p><img src="https://github.com/victorvieiraveiga/pequenosgruposapp/blob/master/image1.png" height="200" width="100" /></p>
+    <p><img src="https://github.com/victorvieiraveiga/pequenosgruposapp/blob/master/image1.png" height="200" width="100" />
+    <img src="https://github.com/victorvieiraveiga/pequenosgruposapp/blob/master/image2.png" height="200" width="100" />
+    </p>
 </article>
  <article>
   <h2>FUTURAS ATUALIZAÇOES</h2>
