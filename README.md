@@ -15,14 +15,15 @@
   
  <article>
   <h2>FUNCIONALIDADES</h2>
-  <p> Criação e Autenticação de Usuário </p>
-    <p> Cadastro de Pequenos Grupos </p>
-   <p>  Cadastrar Participantes </p>
-   <p>  Exibir Localização no Mapa dos Pequenos Grupos e dos Participantes. </p>
-  <p>   Cadastrar as Reuniões </p>
-   <p>  Buscar Reuniões por data </p>
-   <p>  Enviar Relatório das Reuniões. </p>
-
+    <ul>
+  <li> Criação e Autenticação de Usuário </li>
+    <li> Cadastro de Pequenos Grupos </li>
+   <li>  Cadastrar Participantes </li>
+   <li>  Exibir Localização no Mapa dos Pequenos Grupos e dos Participantes. </li>
+  <li>   Cadastrar as Reuniões </li>
+   <li>  Buscar Reuniões por data </li>
+   <li>  Enviar Relatório das Reuniões. </li>
+</ul>
 </article>
  <article>
   <h2>METODOLOGIA DE EXECUÇÃO</h2>
