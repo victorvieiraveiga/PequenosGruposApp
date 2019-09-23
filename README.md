@@ -8,7 +8,7 @@
 </header>
     
 <article>
-  <br></br>
+  <br>
   <h2>SOBRE O PROJETO</h2>
   <p>Aplicativo que tem por objetivo gerenciar pequenos grupos ou células evangelísticas que ocorrem nas casas.</p>
 </article>
