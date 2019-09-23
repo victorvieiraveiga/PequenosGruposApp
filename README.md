@@ -2,7 +2,7 @@
 <html>
 <header>
     <h1>Projeto de Bloco IOS</h1>
-    <h2>Victor Vieira Veiga</h2>
+    <p><h2>Victor Vieira Veiga</h2> </p>
     <p>INFNET</p>
 </header>
     
