@@ -30,6 +30,23 @@
    <p> Aproximadamente 2 meses de trabalho </p>
    <p>  Uso de MacBook Pessoal </p>
 </article>
+
+ <article>
+  <h2>FUTURAS ATUALIZAÇOES</h2>
+  <p> Melhorias de Design. </p>
+  <p> Criar Categorização de Participante (Membro, Visitante, Líder e Anfitrião).</p>
+  <p>  Criar relatório mensal. </p>
+  <p>Criar versão Android. </p>
+
+</article>
+
+ <article>
+  <h2>BIBLIOTECAS UTILIZADAS</h2>
+  <p> FireBaseDataBase – Base de Dados.  </p>
+  <p> FireBaseStorage – Armazenamento de Imagens </p>
+  <p> SDWebImage – Manipulação de imagens </p>
+  <p> SWRevealViewController-máster – Men </p>
+</article>
     
 </html>
 
