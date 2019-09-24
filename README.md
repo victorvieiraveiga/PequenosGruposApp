@@ -37,7 +37,7 @@
  <article>
   <h2>DEMONSTRAÇÃO</h2>
     <ul>
-    <li><a href="./another-page.html">Video Demonstraçao do Aplicativo</a>.</li>        
+    <li><a href="https://www.youtube.com/watch?v=iGp6vJM4bXo&feature=youtu.be">Video Demonstraçao do Aplicativo</a>.</li>        
      </ul>
     <p><img src="image1.png" height="200" width="100" />
     <img src="image2.png" height="200" width="100" />
