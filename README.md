@@ -49,6 +49,7 @@
       <li> Melhorias de Design. </li>
       <li> Criar Categorização de Participante (Membro, Visitante, Líder e Anfitrião).</li>
       <li>  Criar relatório mensal. </li>
+       <li> Cadastrar endereço utilizando Api dos Correios. </li>
       <li>Criar versão Android. </li>
     </ul>
 </article>
