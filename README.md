@@ -39,8 +39,8 @@
     <ul>
     <li><a href="https://youtu.be/jpp2yrl8RoE">Video Demonstraçao do Aplicativo</a>.</li>        
      </ul>
-    <p><img src="image1.png" height="300" width="200" />
-    <img src="image2.png" height="300" width="200" />
+    <p><img src="image1.png" height="270" width="200" />
+    <img src="image2.png" height="270" width="200" />
     </p>
 </article>
  <article>
