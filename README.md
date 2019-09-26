@@ -41,6 +41,8 @@
      </ul>
     <p><img src="image1.png" height="300" width="170" />
     <img src="image2.png" height="300" width="170" />
+    <img src="Imagem 26-09-2019 às 14.43.jpg" height="300" width="170" />    
+        
     </p>
 </article>
  <article>
