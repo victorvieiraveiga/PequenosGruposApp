@@ -39,11 +39,18 @@
     <ul>
     <li><a href="https://youtu.be/jpp2yrl8RoE">Video Demonstraçao do Aplicativo</a>.</li>        
      </ul>
-    <p><img src="image1.png" height="300" width="170" />
-    <img src="image2.png" height="300" width="170" />
-    <img src="Imagem 26-09-2019 às 14.43.jpg" height="300" width="170" />    
-        
-    </p>
+    
+    <table>
+  <tbody>
+    <tr>
+      <td><img src="image1.png" height="300" width="170" /></td>
+      <td>src="image2.png" height="300" width="170" /></td>
+      <td>src="Imagem 26-09-2019 às 14.43.jpg" height="300" width="170"  /></td>
+    </tr>
+  </tbody>
+</table>
+    
+
 </article>
  <article>
   <h2>FUTURAS ATUALIZAÇOES</h2>
